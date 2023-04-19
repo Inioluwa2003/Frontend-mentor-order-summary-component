@@ -6,6 +6,8 @@ body{
     flex-direction: column;
     min-height: 100vh;
     font-size: 16px;
+    background-repeat: no-repeat;
+    background-color: #8a9ed57d;
 }
 main{
     width: 350px;
