@@ -1,0 +1,75 @@
+body{
+    background-image: url(./images/pattern-background-desktop.svg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    font-size: 16px;
+}
+main{
+    width: 350px;
+    text-align: center;
+    background: white;
+    border-radius: 20px;
+}
+.main{
+    width: 350px;
+    border-radius: 20px 20px 0 0;
+}
+.card{
+    padding: 0 40px 30px 40px;
+}
+.header{
+    color: hsl(223, 47%, 23%);
+}
+.desc{
+    color: hsl(224, 23%, 55%);
+}
+.pricing{
+    display: flex;
+    background-color: hsl(225, 100%, 98%);
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.pricing img{
+    margin: 15px;
+}
+.pricing button{
+    border: none;
+    background: none;
+    color: hsl(245, 75%, 52%);
+    margin-left: 15px;
+}
+.pricing div{
+    font-size: 13px;
+}
+.pricing button:hover{
+    color: hsl(224, 23%, 55%);
+    cursor: pointer;
+}
+.btns{
+    display: grid;
+}
+.payment{
+    background-color: hsl(245, 75%, 52%);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    height: 40px;
+    margin-bottom: 30px;
+    box-shadow: hsl(225, 100%, 98%) 0 20px;
+}
+.payment:hover{
+    background-color: hsl(224, 23%, 55%);
+    cursor: pointer;
+}
+.cancel{
+    border: none;
+    background: none;
+    color: hsl(224, 23%, 55%);
+}
+.cancel:hover{
+    cursor: pointer;
+    color: hsl(223, 47%, 23%);
+}
