@@ -1,4 +1,4 @@
- # Frontend Mentor - Order summary card solution
+# Frontend Mentor - Order summary card solution
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -25,10 +25,8 @@ Users should be able to:
 
 ![](./Screenshot.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:  (https://www.frontendmentor.io/solutions/solution-using-basic-css-sS2g1IJrXl)
+- Live Site URL: (https://inioluwa2003.github.io/Frontend-mentor-order-summary-component/)
 
 ## My process
 
@@ -45,7 +43,6 @@ Users should be able to:
 I learnt how to use box shadow
 
 ```css
-.proud-of-this-css 
 .payment{
   box-shadow: hsl(225, 100%, 98%) 0 20px;
 }
@@ -55,4 +52,4 @@ I learnt how to use box shadow
 
 - Frontend Mentor - [@Inioluwa2003](https://www.frontendmentor.io/profile/Inioluwa2003)
 - Twitter - [@ini_adeyemo](https://www.twitter.com/ini_adeyemo)
-- LinkedIn- [Adeyemo Inioluwa](https://www.linkedin.com/mwlite/in/adeyemo-inioluwa-497299246)j
+- LinkedIn- [Adeyemo Inioluwa](https://www.linkedin.com/mwlite/in/adeyemo-inioluwa-497299246)
